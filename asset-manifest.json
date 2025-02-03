@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lostboard/static/css/main.ad220ffe.css",
+    "main.js": "/lostboard/static/js/main.2e3e79be.js",
+    "static/js/488.f1bb6570.chunk.js": "/lostboard/static/js/488.f1bb6570.chunk.js",
+    "index.html": "/lostboard/index.html",
+    "main.ad220ffe.css.map": "/lostboard/static/css/main.ad220ffe.css.map",
+    "main.2e3e79be.js.map": "/lostboard/static/js/main.2e3e79be.js.map",
+    "488.f1bb6570.chunk.js.map": "/lostboard/static/js/488.f1bb6570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad220ffe.css",
+    "static/js/main.2e3e79be.js"
+  ]
+}
